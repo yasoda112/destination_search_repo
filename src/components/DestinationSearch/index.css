@@ -1,0 +1,31 @@
+/* Write your CSS here */
+.bg-container {
+  background-color: #ffffff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+  font-weight: 'Roboto';
+}
+.card-container {
+  padding: 5px;
+}
+.heading {
+  color: #252627;
+  font-size: 18px;
+}
+.search-container {
+  width: 180px;
+  height: 30px;
+  display: flex;
+  border-radius: 5px;
+  justify-content: space-between;
+  background-color: #f1f5f9;
+}
+.search-icon {
+  width: 25px;
+  margin-right: 10px;
+}
+.list-container {
+  padding: 5px;
+}
